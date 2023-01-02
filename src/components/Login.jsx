@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const handleClick = () => {
   const clientID = "337d5538472e45848ad6483b507f8e52";
-  const redirectURL = "http://localhost:3000";
+  const redirectURL = "http://JayDomadia1.github.io/spotify-clone";
   const apiURL = "https://accounts.spotify.com/authorize";
   const scope = [
     "user-read-email",
