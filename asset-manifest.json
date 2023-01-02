@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/spotify-clone/static/js/main.cfb294ac.js",
+    "main.js": "/spotify-clone/static/js/main.0b6e2570.js",
     "index.html": "/spotify-clone/index.html",
-    "main.cfb294ac.js.map": "/spotify-clone/static/js/main.cfb294ac.js.map"
+    "main.0b6e2570.js.map": "/spotify-clone/static/js/main.0b6e2570.js.map"
   },
   "entrypoints": [
-    "static/js/main.cfb294ac.js"
+    "static/js/main.0b6e2570.js"
   ]
 }
